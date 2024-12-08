@@ -4,6 +4,6 @@
 /**
  * 
  */
-module Arrays_assignment {
+module OOPS {
 	requires java.sql;
 }

@@ -20,6 +20,7 @@ public class Second_highest {
 				}
 			}
 		}
+		System.out.println("sorted array: ");
 		for(int k=0;k<a.length;k++)
 		{
 			System.out.print(a[k]+ " ");
